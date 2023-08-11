@@ -1,7 +1,7 @@
 <h1 align="center"> Moto Manual </h1>
 
 <p align="center">
-  <img alt="Preview" width="660" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Assets/Videos/ReadMEGif.gif">
+  <img alt="Preview" width="660" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/ReadMEGif.gif">
 <p align="center">
 
 ## Summary
@@ -85,25 +85,25 @@ PC Controls:
 Oculus Controls + USB Pedals:
 
 <p align="center">
-  <img alt="Preview" width="500" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Controllers%20Diagram.jpg">
+  <img alt="Preview" width="500" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Controllers%20Diagram.jpg">
 <p align="center">
 
 <p align="center">
-  <img alt="Preview" width="300" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/USB%20Pedal.png">
+  <img alt="Preview" width="300" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/USB%20Pedal.png">
 <p align="center">
 
 <p align="center">
-  <img alt="Preview" width="300" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Pedal%20Construction.png">
+  <img alt="Preview" width="300" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Pedal%20Construction.png">
 <p align="center">
 Three pedals were programmed to the PC keyboard bindings, combined with scrap wood to mimic a shifter lever and a brake pedal.  
 
 ## Process 
 Playtests
 <p align="center">
-  <img alt="Preview" width="500" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Bruno%20In%20Action%20Playtest.png">
+  <img alt="Preview" width="500" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Bruno%20In%20Action%20Playtest.png">
 <p align="center">
 
-[![](https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Playtest%20Thumbnail.png)](https://vimeo.com/842711348?share=copy)
+[![](https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Playtest%20Thumbnail.png)](https://vimeo.com/842711348?share=copy)
 
 
 ## Journey
@@ -117,19 +117,19 @@ https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Moto%
 Much of keeping the project on track was due to a reliance on Miro and JIRA for loogging progress along the way, highlighting what needed to be prioritized or rescheduled. This provided a learning opportunity to understand unfamiliar tools outside of Unity.
 
 <p align="center">
-  <img alt="Preview" width="800" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/backlog.jpg">
+  <img alt="Preview" width="800" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/backlog.jpg">
 <p align="center">
 
 <p align="center">
-  <img alt="Preview" width="800" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Calendar.jpg">
+  <img alt="Preview" width="800" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Calendar.jpg">
 <p align="center">
 
 <p align="center">
-  <img alt="Preview" width="800" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/jira%201.png">
+  <img alt="Preview" width="800" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Issues.png">
 <p align="center">
 
 <p align="center">
-  <img alt="Preview" width="800" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/jira%202.png">
+  <img alt="Preview" width="800" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Dashboard.png">
 <p align="center">
 
 *** Please click on the images to view them in greater detail ***
@@ -146,7 +146,7 @@ According to Meta Quest Optimization Guideline, a Medium Simulation intensity fo
 Moto Manual was able to achieve the following: 
 
 <p align="center">
-  <img alt="Preview" width="300" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Statistics.png">
+  <img alt="Preview" width="300" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Statistics.png">
 <p align="center">
 
 
@@ -174,10 +174,10 @@ The vast majority of the tris come from a complex motorcycle model along with th
 ## Essential Tools
 The GameManager Script
 <p align="center">
-  <img alt="Preview" width="300" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Game%20Manager%20SC.png">
+  <img alt="Preview" width="300" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Game%20Manager%20SC.png">
 <p align="center">
 
 The Motorcycle Controller Script
 <p align="center">
-  <img alt="Preview" width="300" alt="preview" src="https://github.com/erickleclerc/Moto-Manual-1/blob/main/Github%20Resources/Moto%20Controller%20SC.png">
+  <img alt="Preview" width="300" alt="preview" src="https://github.com/VFS-VRAR/VAR05-MotoManual-FinalProject/blob/main/Images%20and%20GIFs/Moto%20Controller%20SC.png">
 <p align="center">
